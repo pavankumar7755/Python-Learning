@@ -40,3 +40,8 @@ if "van" in spk:
   print("yes i have that list")
 else:
   print("No!")  '''
+
+#--> important note
+#list,tuple,set,dictionary
+"""When choosing a collection type, it is useful to understand the properties of that type. Choosing the right type for a particular data set could mean retention of meaning, 
+and, it could mean an increase in efficiency or security"""
