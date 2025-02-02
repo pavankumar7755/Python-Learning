@@ -40,3 +40,7 @@ else:
 '''a=45
 print(isinstance(a,int))'''
 
+a='hello'
+b=45
+print(bool(a))
+print(bool(b))

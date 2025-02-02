@@ -98,7 +98,7 @@ calls within strings, making formatting easier and more readable"""
 txt  = f"my name is pavan,my age is {age}"
 print(txt)
 
-#example 2
+#example 2 
 name = 'pavan'
 age = 24
 village = 'akividu'
@@ -143,7 +143,8 @@ txt = "banana"
 x = txt.center(20)
 print(x)
 
-
+txt = "Hello\tWorld!"
+print(txt) 
 
 
 
@@ -195,3 +196,5 @@ title()	Converts the first character of each word to upper case
 translate()	Returns a translated string
 upper()	Converts a string into upper case
 zfill()	Fills the string with a specified number of 0 values at the beginning"""
+
+
